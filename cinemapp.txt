@@ -1,5 +1,0 @@
-techs
-
-react-native
-typescript
-styled-components

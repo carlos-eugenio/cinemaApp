@@ -78,10 +78,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/carlos-eugenio/simplestore
+$ git clone https://github.com/carlos-eugenio/cinemaApp
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd simplestore
+$ cd cinemaApp
 
 # Instale as dependências
 $ yarn install
